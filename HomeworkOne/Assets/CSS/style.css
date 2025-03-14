@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: #dedede;
+}
+
+header{
+    font-size: 30px;
+    background-color: rgb(220, 182, 199);
+}
+
+nav{
+    text-align: center;
+    font-variant: small-caps;
+    background-color: rgb(183, 223, 252);  
+}
+
+main{
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+}
+
+li{
+    display: inline-block; 
+    padding: 10px 30px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(79, 52, 71);
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, Century;
+    font-size: 40px;
+}
+
+p{
+    font-family: Century;
+    line-height: 1.5;
+}
+
+footer{
+    text-size:12px;
+    background-color: rgb(201, 200, 194);  
+}
+
+img{
+    display: inline-block;
+}
